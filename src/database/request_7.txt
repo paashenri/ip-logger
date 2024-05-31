@@ -1,0 +1,9 @@
+
+        Method: GET
+        Headers: {"host":"195.250.164.87:30000","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","referer":"http://195.250.164.87:30000/game","accept-encoding":"gzip, deflate","accept-language":"en-US,en;q=0.9","cookie":"session=89c8a42da8adc46e5278718e","if-none-match":"W/\"8c0-XsjgMczaM7mhCMWy1MeRTJ0oCaQ\""}
+        Body: {}
+        Query: {}
+        Params: {}
+        URL: http://195.250.164.87:30000/no
+        IP: ::ffff:87.119.178.237
+    
